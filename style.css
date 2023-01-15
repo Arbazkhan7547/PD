@@ -1,3 +1,114 @@
+@font-face{
+    font-family: "Mlkwsn mories";
+    src: url("./6288bbea8b652b9a6c594f6b_MlkWsn\ -\ Mories.ttf");
+    font-weight: 400;
+}
+@font-face{
+    font-family: "Mlkwsn mories";
+    src: url("./6288bbea8b652b9a6c594f6b_MlkWsn\ -\ Mories.ttf");
+    font-weight: 200;
+}
+@font-face{
+    font-family: "Mlkwsn mories";
+    src: url("./6288bbea8b652b9a6c594f6b_MlkWsn\ -\ Mories.ttf");
+    font-weight: 300;
+}
+@font-face{
+    font-family: "Mlkwsn mories";
+    src: url("./6288bbea8b652b9a6c594f6b_MlkWsn\ -\ Mories.ttf");
+    font-weight: 100;
+}
+@font-face{
+    font-family: "Mlkwsn mories";
+    src: url("./6288bbea8b652b9a6c594f6b_MlkWsn\ -\ Mories.ttf");
+    font-weight: 600;
+}
+@font-face{
+    font-family: "Mlkwsn mories";
+    src: url("./6288bbea8b652b9a6c594f6b_MlkWsn\ -\ Mories.ttf");
+    font-weight: 700;
+}
+
+@font-face{
+    font-family: "Roobert";
+    src: url("./Roobert-Medium.ttf");
+    font-weight: 600;
+}
+@font-face{
+    font-family: "Roobert";
+    src: url("./Roobert-Medium.ttf");
+    font-weight: 500;
+}
+@font-face{
+    font-family: "Roobert";
+    src: url("./Roobert-Medium.ttf");
+    font-weight: 700;
+}
+@font-face{
+    font-family: "Roobert";
+    src: url("./Roobert-Medium.ttf");
+    font-weight: 800;
+}
+@font-face{
+    font-family: "Roobert";
+    src: url("./Roobert-Medium.ttf");
+    font-weight: 900;
+}
+@font-face{
+    font-family: "Roobert";
+    src: url("./Roobert-Regular.ttf");
+    font-weight: 400;
+}
+@font-face{
+    font-family: "Roobert";
+    src: url("./Roobert-Regular.ttf");
+    font-weight: 300;
+}
+@font-face{
+    font-family: "Roobert";
+    src: url("./Roobert-Regular.ttf");
+    font-weight: 200;
+}
+@font-face{
+    font-family: "Roobert";
+    src: url("./Roobert-Regular.ttf");
+    font-weight: 100;
+}
+@font-face{
+    font-family:Shaloems;
+    src: url("./Shaloems.ttf");
+    font-weight:500;
+}
+@font-face{
+    font-family:"FH Giselle";
+    src: url("./FHGiselle-Regular.ttf");
+    font-weight:400;
+}
+@font-face{
+    font-family:"FH Giselle";
+    src: url("./FHGiselle-Regular.ttf");
+    font-weight:300;
+}
+@font-face{
+    font-family:"FH Giselle";
+    src: url("./FHGiselle-Regular.ttf");
+    font-weight:500;
+}
+@font-face{
+    font-family:"FH Giselle";
+    src: url("./FHGiselle-Regular.ttf");
+    font-weight:600;
+}
+@font-face{
+    font-family:"FH Giselle";
+    src: url("./FHGiselle-Regular.ttf");
+    font-weight:700;
+}
+@font-face{
+    font-family:"FH Giselle";
+    src: url("./FHGiselle-Regular.ttf");
+    font-weight:900;
+}
 *{
     margin: 0;
     padding: 0;
@@ -172,13 +283,13 @@ button, input {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     font-weight: 600;
-    font-family: gilroy;
+    font-family:roobert;
 }
 #mainpart .crsv {
     font-size: 120px;
     font-weight:500;
     color: #EF6A93;
-    font-family: Shaloems;
+    font-family:Shaloems;
 }
 #mainpart p {
     margin-top: 10px;
@@ -230,7 +341,7 @@ button, input {
     font-size: 18px;
     letter-spacing: 2px;
     color: rgb(49, 48, 48);
-    font-family: gilroy;
+    font-family:roobert;
 }
 #part2 .projects{
     margin-top: 5vw;
@@ -302,7 +413,7 @@ button, input {
     justify-content: center;
     text-transform: uppercase;
     font-size: 1.5vw;
-    font-family: gilroy;
+    font-family:roobert;
     width: 400px;
     height: 8vh;
     border: 1px solid #000;
@@ -332,7 +443,7 @@ button, input {
     text-transform: uppercase;
     font-size: 1.2vw;
     font-weight: 600;
-    font-family: gilroy;
+    font-family:roobert;
 }
 #part3 .h1{
     overflow: hidden;
@@ -415,7 +526,7 @@ button, input {
 #part3 .designing h2{
     font-size: 2.5vw;
     font-weight:600;
-    font-family: gilroy;
+    font-family:roobert;
 }
 #adobe{
     width: 60px;
@@ -449,7 +560,7 @@ button, input {
  #part3 .bottom h1{
     text-align: center;
     width: 45%;
-    font-family: gilroy;
+    font-family:roobert;
     font-weight: 600;   
  }
  #part3 .bottom .button{
